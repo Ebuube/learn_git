@@ -69,9 +69,10 @@ When merging your work post review, use:	git push origin main
 	using. Check the documentation for whatever system you are
 	using.
 
+
 ## ISSUE-BASED VERSION CONTROL
 
-Wokring with tickets. The `ticket` has three main parts:
+### The basic `ticket` for issues has three main parts:
 
 * ***Card***:
 	- A [terse](https://en.wiktionary.org/wiki/terse) description of the problem, written from the perspective of the user
