@@ -1,0 +1,5 @@
+# A list of files to ignore
+# =========================
+
+# ignore backups created by 'aspell' spelling checker
+*.bak
